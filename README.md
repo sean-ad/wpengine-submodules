@@ -10,7 +10,7 @@ What this script does:
 
 1. Checks out the project into a temporary directory
 2. Retrieves the submodules
-3. Pushes the newly-built temporary repo to WPEngine
+3. Pushes the newly-built temporary repo to WP Engine
 4. Cleans up
 
 
