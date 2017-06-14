@@ -3,7 +3,7 @@ A script for deploying a WordPress project to WP Engine where the project includ
 
 Local workstation: Linux / MacOSX only
 
-Make sure you have your keys set up at WPEngine first, and that Git Push is enabled.
+Make sure you have your keys set up at WP Engine first, and that Git Push is enabled.
 
 What this script does:
 
